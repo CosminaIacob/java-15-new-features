@@ -1,3 +1,7 @@
+package records;
+
+import records.Employee;
+
 import java.util.Comparator;
 import java.util.stream.Stream;
 
